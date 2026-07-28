@@ -15,5 +15,5 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 <span style="color: red;">News: Won the Best Student Paper Awards Research Runner Up at KDD 2025! (top 6 of total 2955 submissions) </span>
 
 # Contact  
-Our group is looking for highly motivated PhD and Master students with strong mathematical or programming background [[中文招生主页链接]](https://yanzhao.bjut.edu.cn/info/1435/16431.htm).  
+Our group is looking for highly motivated PhD and Master students with strong mathematical or programming background [[中文招生主页链接]](https://cs.bjut.edu.cn/info/1503/3423.htm).  
 E-mail: Jinduo AT bjut DOT edu DOT cn
