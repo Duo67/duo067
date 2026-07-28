@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Biography
 
 I am currently an associate professor (PhD supervisor) in the College of Computer Science at Beijing University of Technology (BJUT). IEEE Senior Member and CCF Senior Member. I obtained my Ph.D. in Computer Science from Beijing University of Technology in June 2020. My research interests are in the general areas of machine learning, data mining and brain science, with a current focus on developing novel techniques to learn the brain effective connectivity networks from neuroimaging data.  
 
