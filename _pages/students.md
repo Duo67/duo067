@@ -1,13 +1,15 @@
 ---
 layout: archive
 permalink: /students/
-title: "Students"
+title: "Group"
 author_profile: true
 redirect_from:
   - /group/
 ---
 
 {% include base_path %}
+
+# Group
 
 ## Doctoral Students（博士研究生）
 - **Yilin Lu 卢颐临** (2026-, 硕博连读)

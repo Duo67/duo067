@@ -37,6 +37,9 @@
 }
 
 .masthead__menu {
+  @include breakpoint($large) {
+    margin-left: 20.833333%;
+  }
 
   ul {
     margin: 0;
