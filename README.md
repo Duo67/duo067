@@ -1,8 +1,10 @@
-# Duo067.github.io
+# duo067
 
 This folder is a ready-to-upload GitHub Pages/Jekyll site.
 
-Upload the contents of this folder to the root of the `Duo067.github.io` repository, then enable GitHub Pages for the repository if it is not already enabled.
+This repository can be published as a GitHub Pages project site at:
+
+https://duo67.github.io/duo067/
 
 The site uses the academic-page format with Jinduo Liu's content. The top navigation keeps only:
 

@@ -12,9 +12,9 @@ title                    : "Jinduo Liu"
 title_separator          : "-"
 name                     : &name "Jinduo Liu (刘金铎)"
 description              : &description "Jinduo AT bjut DOT edu DOT cn"
-url                      : https://Duo067.github.io/
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Duo067/Duo067.github.io"
+url                      : https://Duo67.github.io
+baseurl                  : "/duo067" # the subpath of your site, e.g. "/blog"
+repository               : "Duo67/duo067"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Duo067"
+  github           : "Duo67"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
