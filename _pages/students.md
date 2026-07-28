@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Group
-
 ## Doctoral Students（博士研究生）
 - **Yilin Lu 卢颐临** (2026-, 硕博连读)
 - **Kuo Wang 王阔** (2026-, 申请考核) 
