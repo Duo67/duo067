@@ -32,4 +32,5 @@ redirect_from:
 - **Xinyi Huang 黄欣怡** (2023届) [ACM MM 2026 (CCF A), IJCAI 2026 (CCF B), ICIC 2026 (CCF C)]
 - **Jialin Song 宋佳琳** (2024届) [IEEE BIBM 2025 (CCF B), 北京市自然科学基金本科生启研计划, 国创项目]
 - **Jiatian Cao 曹家天** (2024届) [北京市自然科学基金本科生启研计划]
+- **Fangzi Zhu 朱方梓** (2025届) [星火重点项目]
 - TBD
