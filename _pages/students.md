@@ -30,6 +30,7 @@ redirect_from:
 
 - **Jinke Wu 吴金科** (2021届) [ASOC 2026 (IF: 8.0), 国家奖学金, Rank 1]
 - **Xinyi Huang 黄欣怡** (2023届) [ACM MM 2026 (CCF A), IJCAI 2026 (CCF B), ICIC 2026 (CCF C)]
+- **Yifan Wang 王一帆** (2023届) [国创项目]
 - **Jialin Song 宋佳琳** (2024届) [IEEE BIBM 2025 (CCF B), 北京市自然科学基金本科生启研计划, 国创项目]
 - **Jiatian Cao 曹家天** (2024届) [北京市自然科学基金本科生启研计划]
 - **Fangzi Zhu 朱方梓** (2025届) [星火重点项目]
