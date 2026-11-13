@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Doctoral Students（博士研究生）
-- **Yilin Lu 卢颐临** (2026, 硕博连读)
-- **Kuo Wang 王阔** (2026, 申请考核) 
+- **Yilin Lu 卢颐临** (2026, 硕博连读): KDD 2027 (CCF A)
+- **Kuo Wang 王阔** (2026, 申请考核): 中国科协青年科技人才培育工程博士专项计划
 - TBD
 
 ## Master Students（硕士研究生）
@@ -31,7 +31,7 @@ redirect_from:
 - **Jinke Wu 吴金科** (2021): ASOC 2026 (IF: 8.0), 国家奖学金, Rank 1
 - **Xinyi Huang 黄欣怡** (2023): ACM MM 2026 (CCF A), IJCAI 2026 (CCF B), ICIC 2026 (CCF C)
 - **Yifan Wang 王一帆** (2023): 国创项目
+- **Jiatian Cao 曹家天** (2024): KDD 2027 (CCF A), EMNLP 2026 (CCF B), 北京市自然科学基金本科生启研计划
 - **Jialin Song 宋佳琳** (2024): IEEE BIBM 2025 (CCF B), 北京市自然科学基金本科生启研计划, 国创项目
-- **Jiatian Cao 曹家天** (2024): EMNLP 2026 (CCF B), 北京市自然科学基金本科生启研计划
 - **Fangzi Zhu 朱方梓** (2025): 星火重点项目
 - TBD
